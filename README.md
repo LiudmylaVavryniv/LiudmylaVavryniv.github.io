@@ -10,6 +10,10 @@ The book was published for the general public on 4 December 2008, with the proce
 
 [More...](https://en.wikipedia.org/wiki/The_Tales_of_Beedle_the_Bard)
 
-### Screen from site
+### Layout of the book (Author: Liudmyla Vavryniv)
 
 ![alt txt](https://github.com/LiudmylaVavryniv/LiudmylaVavryniv.github.io/blob/master/images/img_2.jpg)
+
+![alt txt](https://github.com/LiudmylaVavryniv/LiudmylaVavryniv.github.io/blob/master/images/img_12.jpg)
+
+**[More photos of book...](https://github.com/LiudmylaVavryniv/LiudmylaVavryniv.github.io/tree/master/images)**
