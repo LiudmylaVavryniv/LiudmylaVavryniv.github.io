@@ -1,6 +1,6 @@
 # Web site of book "The Tales of Beedle the Bard"
 
-### About book
+## About book
 
 **The Tales of Beedle the Bard** is a book of children's stories by British author J. K. Rowling. There is a storybook of the same name mentioned in Harry Potter and the Deathly Hallows, the last book of the Harry Potter series.
 
@@ -8,12 +8,21 @@ The book was originally produced in a limited edition of only seven copies, each
 
 The book was published for the general public on 4 December 2008, with the proceeds going to the Children's High Level Group (renamed Lumos in 2010).
 
-[More...](https://en.wikipedia.org/wiki/The_Tales_of_Beedle_the_Bard)
+[More about book...](https://en.wikipedia.org/wiki/The_Tales_of_Beedle_the_Bard)
 
-### Layout of the book (Author: Liudmyla Vavryniv)
+## Layout of the book (Author: Liudmyla Vavryniv)
 
 ![alt txt](https://github.com/LiudmylaVavryniv/LiudmylaVavryniv.github.io/blob/master/images/img_2.jpg)
 
 ![alt txt](https://github.com/LiudmylaVavryniv/LiudmylaVavryniv.github.io/blob/master/images/img_12.jpg)
 
 **[More photos of book...](https://github.com/LiudmylaVavryniv/LiudmylaVavryniv.github.io/tree/master/images)**
+
+
+## Author
+
+* **Liudmyla Vavryniv** - [LinkedIn](https://www.linkedin.com/in/lyudmyla-vavryniv/)
+
+## License
+
+This project is open source.
